@@ -1,0 +1,2 @@
+
+jarallax(document.querySelectorAll(".jarallax"));
